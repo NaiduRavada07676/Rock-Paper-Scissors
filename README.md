@@ -8,7 +8,7 @@ The player chooses Rock, Paper, or Scissors, and the computer randomly selects i
 
 Add your deployed website link here:
 
-https://your-project-name.netlify.app
+https://effulgent-semifreddo-e3209a.netlify.app/
 
 ## 📌 Features
 
